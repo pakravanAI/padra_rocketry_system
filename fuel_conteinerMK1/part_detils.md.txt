@@ -1,0 +1,8 @@
+the part i made to have these detiles
+
+h = 8cm
+r = 3cm
+fuel space = 190/066355325cm ^ 3  (pi = 3.14159265)
+r(iner space) = 2.75 cm
+
+for the conteiner to not melt during luanch i recommad wraping the fuel in a aluminum foil
