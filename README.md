@@ -6,7 +6,13 @@ that flies anymore so that is why i am building this repo so in the future i can
 (AKA mooshtaba) ,mohamad bagher ghalibaf and lastly the most important person which i want to piss off khomeini
 
 3D printing 
+
 the files are in stl form and the sizes are in meters but it is intended in meters
 
 warning 
+
 i do not take any resbonsblities for things that may or may not happen (as i said in the why i am not allowed to make them ther for i cant test these
+
+tips 
+
+paint the outside with low friction paint
